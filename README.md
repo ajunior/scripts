@@ -35,7 +35,7 @@ O Sistem Operacional era o Windows 8.1, como eu não sei usar PowerShell escrevi
 
 __Adjamilton Junior__
 
-- [Email](jr@ieee.org)
+- [Email](mailto:jr@ieee.org)
 - [Twitter](https://twitter.com/ajr_almeida)
 - [LinkedIn](https://www.linkedin.com/in/junioralmeida/)
 
