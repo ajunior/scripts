@@ -31,6 +31,19 @@ Não foi possível usar `wget` ou `curl` diretamente, pois o arquivo era salvo c
 
 O Sistem Operacional era o Windows 8.1, como eu não sei usar PowerShell escrevi o script em Python.
 
+
+### [opencv.sh](opencv.sh)
+
+
+Script para instalação da biblioteca OpenCV, de manipulação e processamento de imagens digitais. 
+
+
+> Aviso: Este processo pode demorar alguns minutos, e deve-se evitar desligar o computador. Este comando irá executar um script que irá atualizar os pacotes do seu sistema operacional, instalar as dependências necessárias do OpenCV, compilar e instalar o OpenCV versão 3.4.2.
+
+	sudo bash install.sh
+
+Para entender melhor o que este script faz, você também pode abir o arquivo opencv.sh e observar o que cada comando faz. O arquivo foi elaborado com base em [Milq](https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh).
+
 ## Contato
 
 __Adjamilton Junior__
